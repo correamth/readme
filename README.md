@@ -11,7 +11,7 @@ digite aqui
 
 ## Justificativa do Padrão SAGA escolhido
 
-Aqui justificativa.
+Por se um cenário de uma saga simples, com poucas operações, realizamos a escolha da **saga coreografada** para o nosso projeto.
 
 ## Links com os relatórios dos processamentos do OWASP ZAP (antes e após a correção)
 

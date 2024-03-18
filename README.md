@@ -33,4 +33,4 @@ A coreografia permite que cada serviço adapte sua parte da transação com base
 - Explicação do padrão SAGA escolhido e sua justificativa;
 - Arquitetura da estrutura da nuvem e como a comunicação SAGA está montada.
 
-- [VIDEO](https://drive.google.com/drive/folders/1yGdvC0Sts3Vi8ygJf4vMCwODX5S0RhRF?usp=sharing)
+- [VIDEO](https://drive.google.com/drive/folders/1yGdvC0Sts3Vi8ygJf4vMCwODX5S0RhRF?usp=sharing) PENDENTE ATUALIZAR LINK 

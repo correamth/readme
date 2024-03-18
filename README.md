@@ -25,7 +25,7 @@ A coreografia permite que cada serviço adapte sua parte da transação com base
 
  ## Link para o desenho da arquitetura
 
-  - [Desenho da arquitetura](https://drive.google.com/drive/folders/1yGdvC0Sts3Vi8ygJf4vMCwODX5S0RhRF?usp=sharing)
+  - [Desenho da arquitetura](https://drive.google.com/file/d/1NQ8dryi6pV_g6jYlQqqKA2JAvkYT4xku/view?usp=sharing)
 
  ## Link para o video
  

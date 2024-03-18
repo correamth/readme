@@ -16,8 +16,8 @@ A coreografia permite que cada serviço adapte sua parte da transação com base
 
 ## Links com os relatórios dos processamentos do OWASP ZAP (antes e após a correção)
 
- - [ZAP Scanning Report Inicial - Pagamento](https://drive.google.com/file/d/1IlyXzk6v3-LyMF0739PYIV8EUwbysm-H/view?usp=drive_link)
- - [ZAP Scanning Report Final - Pagamento](https://drive.google.com/file/d/1NxbwyWja7CuOeX6dwDLJ1YdY14LlIZ3X/view?usp=drive_link)
+ - [Relatórios](https://drive.google.com/drive/folders/1v-zCWdVGAg8d6_QTHEeZjFVCxI5eCrzO?usp=sharing)
+
 
 ## Link com o relatório RIPD do sistema
 

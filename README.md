@@ -34,4 +34,4 @@ A coreografia permite que cada serviço adapte sua parte da transação com base
 - Arquitetura da estrutura da nuvem e como a comunicação SAGA está montada.
 
 - [Apresentação do cluster,infra estrutra e chamada das rotinas pelas APIs na AWS:](https://youtu.be/8MXB1xWqfrE)
-- [Apresentação da aplicação:](https://drive.google.com/drive/folders/1yGdvC0Sts3Vi8ygJf4vMCwODX5S0RhRF?usp=sharing) 
+- [Apresentação da aplicação e padrão SAGA:](https://youtu.be/Gy2Mrp_-068) 
